@@ -1,3 +1,10 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Test.http" />
+  </Folder>
   <Project Path="Ecommerce-Engine/Ecommerce-Engine.csproj" />
+  <Project Path="src/Services/Catalog/Commerce.Catalog.Api/Commerce.Catalog.Api.csproj" />
+  <Project Path="src/Services/Catalog/Commerce.Catalog.Application/Commerce.Catalog.Application.csproj" />
+  <Project Path="src/Services/Catalog/Commerce.Catalog.Domain/Commerce.Catalog.Domain.csproj" />
+  <Project Path="src/Services/Catalog/Commerce.Catalog.Infrastructure/Commerce.Catalog.Infrastructure.csproj" />
 </Solution>
