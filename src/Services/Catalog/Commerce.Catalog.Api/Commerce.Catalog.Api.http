@@ -4,3 +4,6 @@ GET {{Commerce.Catalog.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+POST {{Commerce.Catalog.Api_HostAddress}}/api/product?name=kfhd&sku=gddnn&price=20.00
+Accept: application/json
